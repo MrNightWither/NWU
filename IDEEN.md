@@ -30,3 +30,53 @@ Stand: 18.10.2026. Gesammelt nach einem Blick über alle Repos
 - [ ] **Avatare** (`NWU-Avatars`), schon in `docs/UEBERGABE.md` vorgemerkt:
       Kanalpunkte und Verabschiedung am Stream-Ende (am schnellsten umsetzbar),
       später Kreaturen-Kämpfe und „Das Erwachen“.
+
+## Fürs Streamen
+
+### Story & Häuser
+- [ ] **Haus-Abstimmung über das Spiel**: jedes Haus stimmt ab, was gespielt wird oder welche Challenge kommt.
+- [ ] **Morrígans Fluch**: per Kanalpunkte eine Strafe auslösen (z. B. nur Pistole, invertierte Maus, kein HUD), Fluch-Karte mit Countdown im Overlay.
+- [ ] **Haus-Kopfgeld**: Ziel im Spiel setzen, das Haus, das vorher richtig tippt, bekommt Ruhm.
+- [ ] **Verräter-Event**: ein zufälliger Zuschauer sabotiert heimlich sein Haus per Flüster-Aufgabe und wird am Ende enthüllt.
+
+### Interaktion
+- [ ] **Boss-Fight aus dem Chat**: bei Raid oder Hype Train greifen alle Figuren eine Kreatur an, jede Nachricht ist ein Treffer.
+- [ ] **Vorhersage mit Ruhm**: Twitch-Vorhersagen geben dem Haus der Gewinner zusätzlich Ruhm.
+- [ ] **Thron der Zitadelle**: der aktivste Chatter sitzt am Ende auf dem Thron, Abzeichen bis zum nächsten Stream.
+- [ ] **Chat baut mit**: gemeinsames Ziel pro Stream (z. B. 1.000 Nachrichten), dann weicht Nebel auf der Reise-Karte.
+
+### Formate
+- [ ] **Haus-Turnier am Wochenende**: Zuschauer spielen für ihr Haus, Ergebnisse in die Chronik.
+- [ ] **„Ungefiltert“-Talk**: feste Talk-Runde mit Fragen aus dem Discord, Ausschnitte für TikTok und Spotify.
+- [ ] **Gäste aus der Kooperation**: Partner-Streamer als Botschafter eines Hauses mit eigener Figur.
+- [ ] **Monatsfinale**: Pokal-Verleihung mit Prolog-Stimme, Krone und Rückblick.
+
+### Technik & Wachstum
+- [ ] **`!clip`-Markierung**: Chat setzt Markierungen, daraus Clips für TikTok und Shorts.
+- [ ] **Multistream-Rangliste**: Twitch, Kick, TikTok und YouTube im Wettstreit um Essenz.
+- [ ] **Merch-Drop live**: Haus-Hoodie im Stream enthüllen, 24 Stunden Rabattcode.
+
+## Minispiele
+
+### Mit den Figuren im Overlay
+- [ ] **Wettrennen der Häuser** (`!rennen`): Chat-Nachrichten geben der eigenen Hausfigur Schub. *(Favorit)*
+- [ ] **Tauziehen**: zwei Häuser, 60 Sekunden `!zieh`. *(Favorit, wenig Aufwand)*
+- [ ] **Letzter steht**: Nebel zieht sich zusammen, Blitze, wer übrig bleibt, holt Ruhm.
+- [ ] **Schatzsuche**: Truhe am Rahmen versteckt, raten mit `!grab oben/links/…`.
+- [ ] **Fang den Raben**: Rabe fliegt durchs Bild, wer zuerst `!fang` schreibt, sammelt ihn. *(Favorit, wenig Aufwand)*
+
+### Rate- und Reaktionsspiele
+- [ ] **Wer bin ich?**: verschwommene Figur oder Wappen wird langsam schärfer.
+- [ ] **Rune tippen**: Wort in Runenschrift, erste richtige Übersetzung gewinnt.
+- [ ] **Höher oder tiefer**: Serie mit `!hoch`/`!tief`, wer falsch liegt, fliegt raus.
+- [ ] **Emote-Kette**: vorgegebene Emote-Reihenfolge nachbauen, Fehler setzt zurück.
+
+### Glück & Risiko
+- [ ] **Würfel der Morrígan** (`!wurf`): einmal pro Stream, 6 = doppelter Ruhm, 1 = 5 Minuten Silhouette.
+- [ ] **Haus-Lotterie**: Ruhm einsetzen, Ziehung am Stream-Ende, Siegerhaus teilt den Pott.
+- [ ] **Truhe oder Falle**: Chat wählt eine von drei Truhen, Belohnung für alle oder Strafe für den Streamer.
+
+### Mit dem Streamer
+- [ ] **Chat steuert dich**: 30 Sekunden Mehrheitsbefehle (`!links`, `!springen`, `!schießen`).
+- [ ] **Aufgaben-Rad**: bei Subs/Bits dreht sich ein Rad mit Challenges.
+- [ ] **Duell gegen den Streamer**: Mini-Quiz oder Reaktionstest, Gewinner bestimmt die nächste Runde.
