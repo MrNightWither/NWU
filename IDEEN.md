@@ -80,3 +80,38 @@ Stand: 18.10.2026. Gesammelt nach einem Blick über alle Repos
 - [ ] **Chat steuert dich**: 30 Sekunden Mehrheitsbefehle (`!links`, `!springen`, `!schießen`).
 - [ ] **Aufgaben-Rad**: bei Subs/Bits dreht sich ein Rad mit Challenges.
 - [ ] **Duell gegen den Streamer**: Mini-Quiz oder Reaktionstest, Gewinner bestimmt die nächste Runde.
+
+## Spielereien
+
+### Chat-Befehle zum Spaß
+- [ ] **`!hug @Name`**: Umarmung mit Zähler („heute schon 23-mal umarmt“).
+- [ ] **`!slap @Name`**: zufälliger Gegenstand ins Gesicht (Fisch, Socke, nasses Toastbrot).
+- [ ] **`!liebe @Name`**: Liebesrechner mit Prozentzahl und Spruch.
+- [ ] **`!iq`, `!größe`, `!cringe`**: zufällige Werte, jeden Stream anders.
+- [ ] **`!orakel Frage`**: Magischer 8-Ball im NightWither-Stil.
+- [ ] **Alltags-Duell**: Pfanne gegen Gummiente, ohne Haus-Bezug (eigener Befehlsname, damit es nicht mit `!duell` aus NWU-Avatars kollidiert).
+
+### Zähler & Statistiken
+- [ ] **Tod-Zähler** (`!tod`) mit Spruch am Stream-Ende.
+- [ ] **Rage-Zähler** (`!rage`) im Bild.
+- [ ] **„Er hat’s gesagt“-Zähler** für ein Lieblingswort.
+- [ ] **Kaffee-/Energy-Zähler**.
+
+### Kleine Effekte im Bild
+- [ ] **Konfetti-Kanone** per Kanalpunkte.
+- [ ] **Bildschirm-Wackeln** bei Raid oder großer Spende.
+- [ ] **Emote-Regen**: Emote 5-mal geschrieben, regnet es im Bild.
+- [ ] **Fake-Absturz**: 3 Sekunden „Stream abgestürzt“.
+- [ ] **Peinliche Fotos**: altes Bild kurz einblenden.
+- [ ] **Mini-Mute**: Chat schaltet den Streamer 10 Sekunden stumm.
+
+### Running Gags
+- [ ] **Glücks-Socke**: Maskottchen-Gegenstand mit eigenem Befehl.
+- [ ] **„Erster!“-Belohnung**: Titel bis zum nächsten Stream.
+- [ ] **Verbotenes Wort**: 5-Sekunden-Timeout als Gag.
+- [ ] **Schicksalsrad für Snacks**: Chat entscheidet über den Pausensnack.
+
+## Gibt es schon (in Streamer.bot)
+
+Nicht noch einmal vorschlagen: Zitat-Sammlung (`!zitat`), Zuschauer-Steckbriefe (`!profil`),
+Geburtstags-Alarm, Song-Wünsche mit Abstimmung.
